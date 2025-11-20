@@ -3,5 +3,6 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "assets/images",
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false
 }
