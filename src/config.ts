@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "https://eo-rad.ysy.spacjoy.top/bqb/AM/zfx", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Space Joy",
 	bio: "喜欢折腾和分享的咸鱼",
 	links: [

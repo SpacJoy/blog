@@ -181,21 +181,20 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "publish:发布更改": false
+      "bases:创建新数据库": false
     }
   },
   "active": "98c0dd840af073e0",
   "lastOpenFiles": [
+    "posts/test2.md",
+    "posts/Character-Profile.md",
     "posts/guide/cover.jpeg",
     "posts/guide/index.md",
     "posts/guide",
     "posts/video.md",
     "posts/未命名.base",
     "posts/expressive-code.md",
-    "posts/Character-Profile.md",
     "posts/draft.md",
-    "posts/test2.md",
     "spec/about.md",
     "posts/markdown-extended.md",
     "posts/markdown.md",
