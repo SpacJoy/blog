@@ -10,7 +10,7 @@ category: test
 draft: true
 ---
 
-# This Article is a Draft
+# 这是一份草案
 
 本文目前处于草稿状态，尚未发布。因此，普通读者无法看到。内容仍在进行中，可能需要进一步编辑和审阅。当文章准备好发布时，您可以在前言中将“draft”字段更新为“false”:
 
