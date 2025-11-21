@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201.5087547302246
   },
   "right": {
     "id": "4b22c7dd8e9aaf7d",
@@ -94,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/video.md",
-                "collapseAll": false,
+                "file": "posts/Character-Profile.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "video 的反向链接列表"
+              "title": "Character-Profile 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/video.md",
+                "file": "posts/Character-Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "video 的出链列表"
+              "title": "Character-Profile 的出链列表"
             }
           },
           {
@@ -156,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/video.md",
+                "file": "posts/Character-Profile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "video 的大纲"
+              "title": "Character-Profile 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,21 +181,25 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "translate:Open translation view": false
     }
   },
   "active": "027efba88c4bff9e",
   "lastOpenFiles": [
     "posts/test2.md",
     "posts/Character-Profile.md",
+    "posts/未命名.base",
+    "spec/about.md",
+    "posts/me.md",
+    "Memory Sha-0598885079.mp3.md",
+    "Memory Sha-0598885079.mp3",
     "posts/guide/cover.jpeg",
     "posts/guide/index.md",
     "posts/guide",
     "posts/video.md",
-    "posts/未命名.base",
     "posts/expressive-code.md",
     "posts/draft.md",
-    "spec/about.md",
     "posts/markdown-extended.md",
     "posts/markdown.md",
     "posts/test.md",

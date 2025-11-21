@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: true,
-		src: "https://rad.ysy.spacjoy.top/bz/hp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "assets/images/banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
@@ -57,6 +57,13 @@ export const profileConfig: ProfileConfig = {
 	name: "Space Joy",
 	bio: "喜欢折腾和分享的咸鱼",
 	links: [
+		{
+			name: "嗷呜~",
+			icon: "icon-park-outline:home", // Visit https://icones.js.org/ for icon codes
+			// You will need to install the corresponding icon set if it's not already included
+			// `pnpm add @iconify-json/<icon-set-name>`
+			url: "https://eo.spacjoy.top",
+		},
 		{
 			name: "bilibili",
 			icon: "fa6-brands:bilibili", // Visit https://icones.js.org/ for icon codes

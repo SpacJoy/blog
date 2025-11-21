@@ -2,7 +2,8 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "assets/images",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "newFileFolderPath": "posts"
 }
