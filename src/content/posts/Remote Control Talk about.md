@@ -9,7 +9,7 @@ tags:
 published: 2025-11-22
 draft: true
 category: RC
-image:
+image: https://ysy.spacjoy.top/bz/hp/bz_041.png
 ---
 # 简介
 
