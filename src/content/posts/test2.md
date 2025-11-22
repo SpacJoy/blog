@@ -2,10 +2,8 @@
 title: test
 published: 2022-07-01
 tags:
-  - Markdown
-  - Blogging
-  - Demo
   - test
+  - demo
 category: test
 draft: true
 ---
