@@ -31,11 +31,13 @@
   "default_source_language": "auto",
   "target_language_preference": "specific",
   "last_used_target_languages": [
+    "en",
     "zh-CHS"
   ],
   "default_target_language": "zh-cn",
   "filtered_services": [
-    "fanyi_youdao"
+    "fanyi_youdao",
+    "fanyi_baidu"
   ],
   "hotkeys": [
     {
@@ -203,6 +205,49 @@
         "zu"
       ],
       "version": "1.0.0"
+    },
+    "fanyi_baidu": {
+      "selected_languages": [
+        "zh",
+        "en"
+      ],
+      "api_key": "_kmRgn4hTJBAwCNojTda",
+      "app_id": "20251121002503152",
+      "auto_translate": false,
+      "auto_translate_interval": 500,
+      "validated": true,
+      "available_languages": [
+        "ar",
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "lzh",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sl",
+        "sv",
+        "th",
+        "vi",
+        "yue",
+        "zh",
+        "zh-hant"
+      ],
+      "version": "1.0.0",
+      "premium": false
     }
   }
 }

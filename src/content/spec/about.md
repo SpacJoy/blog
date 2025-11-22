@@ -2,7 +2,7 @@
 # Hi there 👋 this is Space Joy
 <div align="center"><img src="https://eo-ysy.146019.xyz/bqb/AM/hp/bqb_003.gif" alt="天禄辟邪玩~喵~" width="80%"></div>
 
-> # 记忆塑造灵魂，灵魂影响记忆
+# 记忆塑造灵魂，灵魂影响记忆
 > *Memory Shapes the Soul, and the Soul Affects Memory*
 
 <div align="center"><img src="https://eo-ysy.146019.xyz/bqb/AM/hp/bqb_008.gif" alt="粉大个！喵~" width="80%"></div>
