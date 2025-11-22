@@ -28,5 +28,9 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "translate:translator-selection"
-  ]
+  ],
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "defaultViewMode": "preview",
+  "livePreview": true
 }
