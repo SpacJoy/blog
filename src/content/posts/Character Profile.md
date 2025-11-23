@@ -5,7 +5,7 @@ tags:
   - spacejoy
 category: SpaceJoy
 draft: false
-image: https://rad.ysy.spacjoy.top/bqb/AM
+image: https://ysy.spacjoy.top/bz/hp/bz_069.png
 ---
 # 空悦
 
